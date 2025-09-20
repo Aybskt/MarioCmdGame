@@ -22,7 +22,7 @@
 <br>
 
 ---
-### ## Table des matières
+## Table des matières
 
 1.  [🌟 À propos du projet](#-à-propos-du-projet)
 2.  [✨ Fonctionnalités](#-fonctionnalités)
@@ -34,7 +34,7 @@
 8.  [📚 Documentation](#-documentation)
 9.  [📜 Licence](#-licence)
 ---
-### ## 🌟 À propos du projet
+## 🌟 À propos du projet
 
 "CMD Kingdom" est un projet de jeu vidéo textuel développé en **C standard**. Il s'inspire de l'esprit des jeux de plateforme 2D classiques comme Mario pour proposer une expérience simple, directe et rejouable.
 
@@ -42,7 +42,7 @@ L'objectif est d'offrir un jeu léger, fonctionnant entièrement dans un termina
 
 ---
 
-### ## ✨ Fonctionnalités
+## ✨ Fonctionnalités
 
 * 🗺️ **Niveaux Toujours Renouvelés :** Chaque partie est unique ! La carte du monde est générée aléatoirement à chaque lancement.
 * 🏰 **Château Secret :** Une zone spéciale, comme un château de fin de niveau, est créée à chaque partie et renferme un précieux trésor.
@@ -54,7 +54,7 @@ L'objectif est d'offrir un jeu léger, fonctionnant entièrement dans un termina
 
 ---
 
-### ## 📸 Aperçu du jeu
+## 📸 Aperçu du jeu
 
 
 <table>
@@ -70,7 +70,7 @@ L'objectif est d'offrir un jeu léger, fonctionnant entièrement dans un termina
 
 ---
 
-### ## 🛠️ Environnement de Développement
+## 🛠️ Environnement de Développement
 
 * **Langage :** C (C99)
 * **Compilateur :** `gcc` (recommandé)
@@ -79,7 +79,7 @@ L'objectif est d'offrir un jeu léger, fonctionnant entièrement dans un termina
 
 ---
 
-### ## 🚀 Démarrage rapide
+## 🚀 Démarrage rapide
 
 Pour jouer, vous avez simplement besoin d'un compilateur C.
 
@@ -100,7 +100,7 @@ Pour jouer, vous avez simplement besoin d'un compilateur C.
 
 ---
 
-### ## 💻 Utilisation
+## 💻 Utilisation
 
 Une fois la compilation terminée, lancez le jeu avec la commande :
 ```sh
@@ -117,7 +117,7 @@ Utilisez les chiffres du clavier pour vous déplacer, puis appuyez sur `Entrée`
 
 ---
 
-### ## 🗺️ Légende de la carte
+## 🗺️ Légende de la carte
 
 | Symbole | Signification | Description |
 |:---:|---|---|
@@ -133,7 +133,7 @@ Utilisez les chiffres du clavier pour vous déplacer, puis appuyez sur `Entrée`
 
 ---
 
-### ## 📚 Documentation
+## 📚 Documentation
 
 Ce projet ne disposant pas d'une documentation externe, le code source a été **entièrement commenté** pour être aussi clair et compréhensible que possible. Chaque fonction et chaque bloc logique important est expliqué directement dans le code.
 
@@ -141,7 +141,7 @@ Ce projet ne disposant pas d'une documentation externe, le code source a été *
 
 ---
 
-### ## 📜 Licence
+## 📜 Licence
 
 Ce projet est distribué sous la Licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
