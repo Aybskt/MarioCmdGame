@@ -1,0 +1,20 @@
+# Fichiers compilés
+*.o
+*.obj
+*.exe
+*.out
+
+# Fichiers temporaires
+*.log
+*.tmp
+
+# Dossiers de build
+/build/
+bin/
+Debug/
+Release/
+
+# Fichiers spécifiques à l'éditeur
+.vscode/
+*.swp
+*.swo
