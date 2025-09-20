@@ -4,20 +4,20 @@
     <strong>Un jeu d'aventure 2D style Mario en mode texte, développé en C, où vous explorez un monde généré aléatoirement à la recherche de trésors directement dans votre terminal.</strong>
     <br />
     <br />
-.
-    <a href="https://github.com/VOTRE_NOM/VOTRE_REPO/blob/main/projet.c"><strong>👨‍💻 Consulter le code source</strong></a>
-            <a href="https://github.com/Aybskt/Checker-Beautifier-in-Java-for-python-language/releases"><strong>🚀 Télécharger la dernière version</strong></a>
-.
+    <a href="https://github.com/Aybskt/MarioCmdGame/blob/main/projet.c"><strong>👨‍💻 Consulter le code source</strong></a>
     ·
-    <a href="https://github.com/VOTRE_NOM/VOTRE_REPO/issues"><strong>🛑 Signaler un Bug</strong></a>
+    <a href="https://github.com/Aybskt/MarioCmdGame/releases"><strong>🚀 Télécharger la dernière version</strong></a>
+    ·
+    <a href="https://github.com/Aybskt/MarioCmdGameO/issues"><strong>🛑 Signaler un Bug</strong></a>
+    
   </p>
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/github/last-commit/VOTRE_NOM/VOTRE_REPO?style=for-the-badge&logo=github&color=blue" />
-  <img src="https://img.shields.io/github/repo-size/VOTRE_NOM/VOTRE_REPO?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/github/languages/top/VOTRE_NOM/VOTRE_REPO?style=for-the-badge&logo=c" />
-  <img src="https://img.shields.io/github/license/VOTRE_NOM/VOTRE_REPO?style=for-the-badge&color=green" />
+  <img src="https://img.shields.io/github/last-commit/Aybskt/MarioCmdGame?style=for-the-badge&logo=github&color=blue" />
+  <img src="https://img.shields.io/github/repo-size/Aybskt/MarioCmdGame?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/languages/top/Aybskt/MarioCmdGame?style=for-the-badge&logo=c" />
+  <img src="https://img.shields.io/github/license/Aybskt/MarioCmdGame?style=for-the-badge&color=green" />
 </div>
 <br>
 
@@ -60,8 +60,8 @@ L'objectif est d'offrir un jeu léger, fonctionnant entièrement dans un termina
 
 <table>
   <tr>
-    <td><img src="https://i.imgur.com/8aV4iYk.png" alt="Début de partie et instructions"></td>
-    <td><img src="https://i.imgur.com/uN6G7FV.png" alt="Exploration du monde"></td>
+    <td><img src="https://raw.githubusercontent.com/Aybskt/MarioCmdGame/main/assets/img.png" alt="Début de partie et instructions"></td>
+    <td><img src="https://raw.githubusercontent.com/Aybskt/MarioCmdGame/main/assets/img1.png" alt="Exploration du monde"></td>
   </tr>
   <tr>
     <td align="center"><em>Début de partie et instructions</em></td>
@@ -94,9 +94,9 @@ Pour jouer, vous avez simplement besoin d'un compilateur C.
 #### **Compilation**
 1.  Clonez ou téléchargez ce dépôt.
 2.  Ouvrez un terminal et naviguez jusqu'au dossier du projet.
-3.  Compilez le fichier `projet.c` avec la commande suivante :
+3.  Compilez le fichier `MarioCmd.c` avec la commande suivante :
     ```sh
-    gcc projet.c -o chercheur_or
+    gcc MarioCmd.c -o MarioCmd
     ```
 
 ---
@@ -105,7 +105,7 @@ Pour jouer, vous avez simplement besoin d'un compilateur C.
 
 Une fois la compilation terminée, lancez le jeu avec la commande :
 ```sh
-./chercheur_or
+./MarioCmd
 ```
 
 #### **Contrôles du jeu**
@@ -138,7 +138,7 @@ Utilisez les chiffres du clavier pour vous déplacer, puis appuyez sur `Entrée`
 
 Ce projet ne disposant pas d'une documentation externe, le code source a été **entièrement commenté** pour être aussi clair et compréhensible que possible. Chaque fonction et chaque bloc logique important est expliqué directement dans le code.
 
-➡️ **[Explorer le code source commenté](https://github.com/VOTRE_NOM/VOTRE_REPO/blob/main/projet.c)**
+➡️ **[Explorer le code source commenté](https://github.com/Aybskt/MarioCmdGame/blob/main/MarioCmd.c)**
 
 ---
 
@@ -146,4 +146,4 @@ Ce projet ne disposant pas d'une documentation externe, le code source a été *
 
 Ce projet est distribué sous la Licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
-Copyright (c) 2025 - VOTRE NOM (VOTRE PSEUDO)
+Copyright (c) 2025 - Ayoub. A
