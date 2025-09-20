@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">🪙 Le Chercheur d'Or</h1>
+  <h1 align="center">🪙🏰 CMD Kingdom</h1>
   <p align="center">
     <strong>Un jeu d'aventure 2D style Mario en mode texte, développé en C, où vous explorez un monde généré aléatoirement à la recherche de trésors directement dans votre terminal.</strong>
     <br />
@@ -36,7 +36,7 @@
 ---
 ### ## 🌟 À propos du projet
 
-"Le Chercheur d'Or" est un projet de jeu vidéo textuel développé en **C standard**. Il s'inspire de l'esprit des jeux de plateforme 2D classiques comme Mario pour proposer une expérience simple, directe et rejouable.
+"CMD Kingdom" est un projet de jeu vidéo textuel développé en **C standard**. Il s'inspire de l'esprit des jeux de plateforme 2D classiques comme Mario pour proposer une expérience simple, directe et rejouable.
 
 L'objectif est d'offrir un jeu léger, fonctionnant entièrement dans un terminal, qui met en œuvre des concepts de base de la programmation en C : gestion de tableaux 2D, génération procédurale et logique de jeu. L'utilisation de **codes de couleur ANSI** vise à rendre l'expérience plus immersive et visuellement claire, rappelant les couleurs vives des jeux d'antan.
 
@@ -56,7 +56,6 @@ L'objectif est d'offrir un jeu léger, fonctionnant entièrement dans un termina
 
 ### ## 📸 Aperçu du jeu
 
-*(💡 **Conseil :** Remplacez ces images par vos propres captures d'écran !)*
 
 <table>
   <tr>
