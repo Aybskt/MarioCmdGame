@@ -4,11 +4,11 @@
     <strong>Un jeu d'aventure 2D style Mario en mode texte, développé en C, où vous explorez un monde généré aléatoirement à la recherche de trésors directement dans votre terminal.</strong>
     <br />
     <br />
-    <a href="https://github.com/Aybskt/MarioCmdGame/blob/main/projet.c"><strong>👨‍💻 Consulter le code source</strong></a>
+    <a href="https://github.com/Aybskt/MarioCmdGame/blob/main/MarioCmd.c"><strong>👨‍💻 Consulter le code source</strong></a>
     ·
     <a href="https://github.com/Aybskt/MarioCmdGame/releases"><strong>🚀 Télécharger la dernière version</strong></a>
     ·
-    <a href="https://github.com/Aybskt/MarioCmdGameO/issues"><strong>🛑 Signaler un Bug</strong></a>
+    <a href="https://github.com/Aybskt/MarioCmdGame/issues"><strong>🛑 Signaler un Bug</strong></a>
     
   </p>
 </div>
